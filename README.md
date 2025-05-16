@@ -84,6 +84,6 @@ Y presiona Enter para confirmar.
 
 ## 👤 Autor
 
-**José M.**  
+**José Manuel Moreno Guerrero**  
 [GitHub](https://github.com/Josemita23)
 
