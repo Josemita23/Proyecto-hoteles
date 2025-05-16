@@ -1,6 +1,6 @@
 # 🏨 Proyecto Hoteles
 
-Este proyecto es una aplicación web para la gestión de hoteles, que incluye un backend con Node.js y un frontend en React.
+Este proyecto es una aplicación web para la gestión de hoteles, que incluye un backend con TypeScript y Node.js y un frontend en React.
 
 ---
 
@@ -25,7 +25,7 @@ Abre Visual Studio Code y selecciona la carpeta del proyecto.
 
 ### 🔧 Configurar y ejecutar el backend
 
-1. Abre una terminal (Command Prompt o la terminal integrada en VS Code)
+1. Abre una terminal (Command Prompt)
 2. Ejecuta los siguientes comandos:
 
 ```bash
@@ -87,8 +87,3 @@ Y presiona Enter para confirmar.
 **José M.**  
 [GitHub](https://github.com/Josemita23)
 
----
-
-## 📄 Licencia
-
-Este proyecto está bajo la licencia MIT. Puedes ver más detalles en el archivo `LICENSE`.
